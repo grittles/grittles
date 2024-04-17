@@ -29,6 +29,7 @@ I continually strive to learn new languages and technologies, adapting quickly b
 - Exploring advanced AI models to improve deep learning efficiency.
 - Enhancing system performance through rigorous analysis and optimization.
 - Dynamic Programming algorithms comparisons to self-teaching algorithms
+- Assembly Language Optimization
 
 Feel free to check out any projects below, and don't hesitate to reach out if you want to collaborate or have any questions!
 
